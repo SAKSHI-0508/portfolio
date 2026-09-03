@@ -1,0 +1,42 @@
+nav {
+    background-color: #222;
+    color: white;
+    padding: 50px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav h2 {
+    margin: 0;
+    color: white;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin-left: 20px;
+}
+
+nav a:hover {
+    color: lightblue;
+}
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: lightblue;
+}
+
+h1 {
+    margin-top: 150px;
+    color: darkblue;
+}
+
+h2 {
+    color: black;
+}
+
+p {
+    font-size: 30px;
+}
